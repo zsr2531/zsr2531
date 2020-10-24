@@ -1,6 +1,5 @@
-### Yo yo yo whatup, I'm zsr2531 aka Radium
+# Hello there!
 
-- I mainly work with C# and F#
-- Currently learning compiler theory
-- I kinda want to pick up Rust or C++ in the future, so stay tuned :D
-- Huge F1 and chess guy
+### If you want to support my work:
+
+<a href="https://www.buymeacoffee.com/radium" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-violet.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
